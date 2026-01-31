@@ -1,7 +1,7 @@
 // API клиент для работы с backend
 // Сохраните этот файл как src/api/apiClient.js
 
-const API_URL = 'http://localhost:3001/api';
+const API_URL = 'https://digital-literacy-api.onrender.com/api/';
 
 class ApiClient {
   constructor() {
